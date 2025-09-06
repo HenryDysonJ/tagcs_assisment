@@ -97,9 +97,9 @@ export const Login = () => {
                     </Box>
 
                     <Typography sx={loginStyle.linkText} variant="body2" align="center" mt={3}>
-                        Have an account?{' '}
+                       Don't Have an account?{' '}
                         <Link href="/" underline="hover" fontWeight="bold">
-                            LogIn
+                            SignUp
                         </Link>
                     </Typography>
                 </Box>
